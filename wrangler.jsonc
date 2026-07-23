@@ -3,7 +3,7 @@
   "compatibility_date": "2025-09-01",
   "assets": {
     "directory": "./docs/.vitepress/dist",
-    "html_handling": "autotrailing-slash",
+    "html_handling": "auto-trailing-slash",
     "not_found_handling": "single-page-application"
   }
 }
